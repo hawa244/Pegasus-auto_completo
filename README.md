@@ -1,1 +1,1 @@
-# Pegasus-auto_completo
+# Pegasus-auto
